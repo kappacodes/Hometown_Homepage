@@ -20,7 +20,7 @@ img {
 
 .section {
     width: 720px;
-    height: 343px;
+    height: 340px;
     margin: 0 auto;
 }
 
@@ -31,7 +31,8 @@ img {
     font-weight: 700;
     color: #FFFFFF;
     padding-top: 120px;
-    height: 223px;
+    height: 219px;
+    margin-top: -6px;
 }
 
 #main_title {
